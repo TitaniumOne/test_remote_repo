@@ -36,21 +36,27 @@ def askURL(url):
     html = reponse.read().decode("utf-8")
     return html
 
-def getData():
-    dataList = []
-    for i in range(10):
-        #url = 
-        html = askURL(url)
+def getData(bs):
+    rule = re.compile(r'<p>(.*?)</p>')
+    for tit in bs.find_all('div',class_="xeditor_content"):
+        tit = str(tit)
+        print("tit=",tit)
+        list1 = re.findall(rule,tit)
+        print("list=",list1)
+        for ri in list1:
+            op = open("eastmoney1.txt","a")
+            #op.write(ri) 
+    
 
 
 
 html = askURL(url)
 bs = BeautifulSoup(html,"html.parser")
-for tit in bs.find_all('div',class_="xeditor_content"):
+getData(bs)
+
 #print(bs.title.contents[0])
 # for tit in bs.find_all('title',class=)
-    op = open("eastmoney1.txt","w")
-    op.write(str(tit))
+
 
 
 #op.write(str(bs.select('title')))
