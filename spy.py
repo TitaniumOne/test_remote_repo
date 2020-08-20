@@ -13,12 +13,13 @@ import re
 #print(response.getheaders())
 #response = urllib.request.Request(url,headers)
 num = 1
-url = "https://guba.eastmoney.com/news,tzbd,956902355.html"
+url = "https://guba.eastmoney.com/news,002151,957227463.html"
 #"https://guba.eastmoney.com/list,601216_%s.html" % num
 #"https://guba.eastmoney.com/list,601216.html"
 # #"http://hq.sinajs.cn/list=sh601006"
 data = bytes(urllib.parse.urlencode({"hello":"world"}),encoding="utf-8")
 
+#class xeditor_content zwconttbt
 
 #response = urllib.request.urlopen(res)
 #print(response.read().decode("utf-8"))
@@ -45,9 +46,14 @@ def getData():
 
 html = askURL(url)
 bs = BeautifulSoup(html,"html.parser")
+for tit in bs.find_all('div',class_="xeditor_content"):
 #print(bs.title.contents[0])
-op = open("eastmoney1.txt","w")
-op.write(str(bs.select('title')))
+# for tit in bs.find_all('title',class=)
+    op = open("eastmoney1.txt","w")
+    op.write(str(tit))
+
+
+#op.write(str(bs.select('title')))
 #print(bs.find_all(text=re.compile("新闻")))
 # print(bs.select('title'))#标签
 # print(bs.select('#id'))#idchazhao
