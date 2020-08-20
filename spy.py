@@ -47,14 +47,23 @@ def getData(bs):
             op = open("eastmoney1.txt","a")
             op.write(ri) 
     
-def 
-    
+def _isPage(url):
+    page = url.split('/')[3]
+    tip = page.split(',')[0]
+    if tip == "news":
+        print("pass1")
+    elif tip == "list":
+        print("pass2")
+    else:
+        raise TypeError
 
 
+_isPage(url)
 
-html = askURL(url)
-bs = BeautifulSoup(html,"html.parser")
-getData(bs)
+
+# html = askURL(url)
+# bs = BeautifulSoup(html,"html.parser")
+# getData(bs)
 
 # print(bs.title.contents[0])
 # for tit in bs.find_all('title',class=)
