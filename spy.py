@@ -16,7 +16,7 @@ num = 1
 url = "https://guba.eastmoney.com/news,tzbd,956902355.html"
 #"https://guba.eastmoney.com/list,601216_%s.html" % num
 #"https://guba.eastmoney.com/list,601216.html"
-#"http://hq.sinajs.cn/list=sh601006"
+# #"http://hq.sinajs.cn/list=sh601006"
 data = bytes(urllib.parse.urlencode({"hello":"world"}),encoding="utf-8")
 
 
@@ -47,7 +47,7 @@ html = askURL(url)
 bs = BeautifulSoup(html,"html.parser")
 #print(bs.title.contents[0])
 op = open("eastmoney1.txt","w")
-op.write(str(bs))
+op.write(str(bs.select('title')))
 #print(bs.find_all(text=re.compile("新闻")))
 # print(bs.select('title'))#标签
 # print(bs.select('#id'))#idchazhao
