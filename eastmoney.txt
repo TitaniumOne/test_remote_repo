@@ -1,0 +1,1269 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="webkit" name="renderer"/>
+<meta charset="utf-8"/>
+<title>君正集团(601216)股吧_君正集团怎么样_分析讨论社区—东方财富网</title>
+<meta content="君正集团股吧,601216股吧,君正集团怎么样,君正集团分析" name="keywords"/>
+<meta content="君正集团(601216)股吧，股民朋友可以在这里畅所欲言，分析讨论股票名的最新动态。东方财富股吧，专业的股票论坛社区。" name="description"/>
+<meta content="format=html5; url=//mguba.eastmoney.com/mguba/list/601216" name="mobile-agent"/>
+<link href="/list,601216.html" rel="canonical"/>
+<link href="//gbfek.dfcfw.com/project/guba/old/list_c.css?r=148" rel="stylesheet"/>
+<link href="//gbfek.dfcfw.com/deploy/guba_web/work/list.css?r=148" rel="stylesheet"/>
+<base target="_blank"/>
+</head>
+<body class="hlbody">
+<style>
+    #topnav .guba_topic {
+        height: 38px;
+    }
+
+    #topnav .gubatopic {
+        top: 35px;
+        left: -20px;
+    }
+
+        #topnav .gubatopic li {
+            background: #fff !important;
+            float: left;
+            line-height: 30px;
+        }
+</style>
+<div id="header">
+<!-- 微信分享img -->
+<img id="weixin-share" src="//cmsjs.eastmoney.com/common/weixin-share.png" style="position: absolute; width: 0; height: 0; left: -1000px;z-index: -1;"/>
+<div class="gbbody" id="headergbbody">
+<ul id="topnav">
+<li class="user_info dfcfw" tracker-eventcode="gb_xgbsy_ zdh_djdfcf">
+<a href="//www.eastmoney.com/" target="_blank">东方财富网</a>
+<em class="trg icon_down_s"></em>
+<ul class="slide_down dc_site">
+<li><a href="//zqhd.eastmoney.com/Html/aghd/pc/20170918/html/activity2.html">移动客户端</a></li>
+<li><a href="//fund.eastmoney.com">天天基金网</a></li>
+<li><a href="//zqhd.eastmoney.com/index.html?ad_id=web_kh_dcsy_jycdl_01_01_01_1">东方财富证券</a></li>
+<li><a href="//www.eastmoneyfutures.com/kh/index.html">东方财富期货</a></li>
+<li><a href="//choice.eastmoney.com">choice数据</a></li>
+<li><a href="/">股吧</a></li>
+</ul>
+</li> |
+            <li tracker-eventcode="gb_xgbsy_zdh_djgbsy"><a href="/" target="_blank">股吧首页</a></li>
+<li tracker-eventcode="gb_xgbsy_zdh_djjjb"><a href="/jj.html">基金吧</a></li>
+<li tracker-eventcode="gb_xgbsy_zdh_djgbft"><a href="/fangtan/" target="_blank">访谈</a></li>
+<li class="guba_topic user_info" tracker-eventcode="gb_xgbsy_zdh_djgbht">
+<a href="//gubatopic.eastmoney.com/" target="_blank">话题</a>
+<em class="trg icon_down_s"></em>
+<ul class="slide_down gubatopic">
+<li><a href="//gubatopic.eastmoney.com/">股吧话题</a></li>
+<li><a href="//gubatopic.eastmoney.com/jj">基金吧话题</a></li>
+</ul>
+</li>
+<li tracker-eventcode="gb_xgbsy_zdh_djwdm"><a href="/qa/qa_list.aspx" target="_blank">问董秘</a></li>
+</ul>
+<!-- 功能废弃2017-06-08 -->
+<!-- <form method="GET" action="" id="topnavsearch" target="_blank">
+            <input type="text" name="" id="topnavskey" placeholder="搜索 股票/讨论/用户" autocomplete="off" /><input type="submit" value=" " id="topnavsubmit" title="点击开始搜索" tracker-eventcode="iguba_topbar_search_topbarS"/>
+            <div id="topnavsearchre">
+                <ul ></ul>
+            </div>
+        </form> -->
+<ul id="topnavper">
+<li class="topbarhaslogin" id="topbarloginuserdiv" style="display:none;">
+<span class="headerusername tnavsel">
+<em class="userhead"></em>
+<span class="username"></span>
+<em class="tnavselic"></em>
+<div class="topnavdown">
+<!-- <div class="topnavdownt">设置<em class="tnavselid"></em></div> -->
+<ul class="topnavdownul">
+<li><a href="//passport2.eastmoney.com/pub/basicinfo" target="_blank">个人设置</a></li>
+<li><a href="//passport2.eastmoney.com/pub/changepassword" target="_blank">修改密码</a></li>
+<li><a href="http://iguba.eastmoney.com/setting/privacy" target="_blank">隐私设置</a></li>
+<li><a href="http://iguba.eastmoney.com/setting/message" target="_blank">消息设置</a></li>
+<li><a href="//v2.eastmoney.com" target="_blank">V认证</a></li>
+<li><a href="//i.eastmoney.com/qianbao.html" target="_blank">我的钱包</a></li>
+<li class="nobg"><a href="javascript:;" id="topbarlogoutlink" target="_self">退出</a></li>
+</ul>
+</div>
+</span>
+</li>
+<li class="topbarhaslogin" style="display:none;">
+<span class="tnavsel">
+<a href="//i.eastmoney.com"><em class="top_name">我的股吧</em></a><em class="tnavselic"></em>
+<div class="topnavdown">
+<!-- <div class="topnavdownt">设置<em class="tnavselid"></em></div> -->
+<ul class="topnavdownul">
+<li><a href="//i.eastmoney.com">我关注的股</a></li>
+<li><a href="//i.eastmoney.com">我关注的人</a></li>
+<li><a href="//i.eastmoney.com/myarts">我的发言</a></li>
+<li><a href="//i.eastmoney.com/collection">我的收藏</a></li>
+</ul>
+</div>
+</span>
+</li>
+<li class="topbarhaslogin" style="display:none;">
+<span class="tnavsel">
+<em class="top_name my_msg">我的消息<i></i></em><em class="tnavselic"></em>
+<div class="topnavdown">
+<!-- <div class="topnavdownt">消息<em class="tnavselid"></em></div> -->
+<ul class="topnavdownul topnavdownulmsgul">
+<li><a href="//i.eastmoney.com">我关注的股</a></li>
+<li><a href="//i.eastmoney.com">我关注的人</a></li>
+<li><a href="//i.eastmoney.com/myarts">我的发言</a></li>
+<li><a href="//i.eastmoney.com/collection">我的收藏</a></li>
+<li><a href="//i.eastmoney.com/myinfo" id="my_wdmsg">  查看问答消息<em></em></a></li>
+</ul>
+</div>
+</span>
+</li>
+</ul>
+</div>
+</div>
+<script>
+    window.shimingOption = 2;
+</script>
+<script src="//gbfek.dfcfw.com/project/guba/modules/h5Adaptation.js?r=148"></script>
+<script>
+    var barcode = "601216";
+    var code = "601216";
+    var tabtype = "0";
+    var page = "1";
+    var stockname = "君正集团";
+    var RelatedCode = "601216";
+    var RelatedName = "君正集团";
+    var OuterCode = "601216";
+    var Category = "100";
+    var Division = "1";
+    var Market = "100";
+    var Type = "100";
+    var QuoteCode = "6012161";
+    var BarType = "0";
+    var CodeWithMarket = "601216.sh";
+    var qq_code = "";
+    var qq_code2 = "";
+    var IsStockA = "False";
+    var isStockB="False";
+    var _IFCode = "IF1804";
+    var _TFCode = "IF1706";
+    var pagetype ="list";
+</script>
+<style>
+    #topnav li .red_point_jj {
+        position: absolute;
+        top: -3px;
+        left: 30px;
+        background-image: url(//gbfek.dfcfw.com/gubav5/images/header_bg.png);
+        background-position: -25px 0;
+        width: 6px;
+        height: 6px;
+        margin: 0 auto;
+    }
+
+    #topnav li {
+        display: inline-block;
+        padding: 0 6px;
+        *display: inline;
+        *zoom: 1;
+        position: relative;
+        height: 30px;
+    }
+
+    .guba_topic .topics {
+        display: none;
+    }
+
+    .guba_topic ul li {
+        display: block;
+        background-color: #08417f;
+        width: 61px;
+        height: 33px;
+        margin-top: 2px;
+        line-height: 33px;
+        text-align: center;
+    }
+
+    .guba_topic:hover ul {
+        display: block;
+        position: absolute;
+        top: 25px;
+        left: -13px;
+    }
+</style>
+<div class="gbbody" id="header_ad">
+<div class="dh10"></div>
+<iframe frameborder="0" height="60" marginheight="0" marginwidth="0" scrolling="no" src="//same.eastmoney.com/s?z=eastmoney&amp;c=1551&amp;op=1" width="1000"></iframe>
+</div>
+<div class="gbbody" id="headerban">
+<div id="searchbar_wrap">
+</div>
+<div id="gbhri">
+</div>
+</div>
+<div class="gbbody" id="stockheader">
+<span id="stockif">
+<span data-popstock="601216" data-poptype="1" id="stockname"><a href="/list,601216.html">君正集团吧</a></span>
+</span>
+<span id="follow_wrap"></span>
+<div class="user_follow" id="popularity_rank"></div>
+<div class="zjfw" id="zjfw">
+<ul>
+<li class="zjfwdb">最近访问：</li>
+<li><span id="baHistory"></span></li>
+</ul>
+</div>
+</div>
+<div class="gbbody" id="stockhq"></div>
+<div class="gbbody">
+<div id="headerfloat"></div>
+<div id="mainbody">
+<div id="replydateselectdiv">
+            排序：
+                    <div data-viewsort="hf" id="replydateselect">
+                        评论时间 <em class="icondarr"></em>
+<div id="replydateselectd">
+<ul>
+<li data-viewsort="hf">评论时间 <em class="icondarrd"></em></li>
+<li data-viewsort="ft">发帖时间</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="pagenav">
+<ul>
+<li><a href="list,601216.html" target="_self">全部</a></li>
+</ul>
+<div id="addtopic">发新帖</div>
+</div>
+<!--[if IE 8]><style> #news_search .search_btn {top:5px;}</style><![endif]-->
+<div class="news_search clearfix" id="news_search">
+<div class="search_body clearfix" tracker-eventcode="gb_ggv_bnssqy_qydj">
+<div class="search_box fl">
+<input class="keysearch" placeholder="吧内搜索，请输入关键词"/>
+<div class="search_btn icon icon_search"></div>
+</div>
+<div class="hotdiss fl"></div>
+</div>
+<div class="search_result clearfix">
+<div class="result_cont fl"></div>
+<div class="search_sort fr" style="display:none;">
+<span class="sort_default on" data-sorttype="0">默认排序</span> |
+                        <span class="sort_related" data-sorttype="1">相关度排序</span>
+</div>
+</div>
+</div>
+<div class="all hs_list" id="articlelistnew">
+<div class="dheader">
+<span class="l1 a1">阅读</span><span class="l2 a2">评论</span><span class="l3 a3">标题</span>
+<span class="l4 a4">作者</span>
+<span class="l5 a5">最后更新</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">16.3万</span>
+<span class="l2 a2">2339</span>
+<span class="l3 a3"><em class="settop">讨论</em> <a href="/news,cjpl,957072289.html" title="跑步入场！投资者数量首破1.7亿！新增2600亿杠杆资金 这一指标创5年新高">跑步入场！投资者数量首破1.7亿！新增2600亿杠杆资金 </a></span>
+<span class="l4 a4"><a data-popstock="cjpl" data-poptype="2" href="/list,cjpl.html" target="_blank"><font>财经评论资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">99407</span>
+<span class="l2 a2">160</span>
+<span class="l3 a3"><em class="settop">讨论</em> <a href="/news,cjpl,957071919.html" title="白宫幕僚长：目前暂无中美贸易会谈安排">白宫幕僚长：目前暂无中美贸易会谈安排</a></span>
+<span class="l4 a4"><a data-popstock="cjpl" data-poptype="2" href="/list,cjpl.html" target="_blank"><font>财经评论资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">11.6万</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><em class="settop">讨论</em> <em class="icon icon_list_img"></em> <a href="/news,tzbd,957118708.html" title="创业板涨跌幅限制放宽至20%险资已重仓62只个股">创业板涨跌幅限制放宽至20%险资已重仓62只个股</a></span>
+<span class="l4 a4"><a data-popper="3006113720930996" data-poptype="1" href="http://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧 </font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:28</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">11.9万</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><em class="settop">讨论</em> <em class="icon icon_list_img"></em> <a href="/news,tzbd,957117691.html" title="2万亿美元巨头闪现！苹果财报大超预期A股小伙伴要嗨？">2万亿美元巨头闪现！苹果财报大超预期A股小伙伴要嗨？</a></span>
+<span class="l4 a4"><a data-popper="3006113720930996" data-poptype="1" href="http://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧 </font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:27</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">1093万</span>
+<span class="l2 a2">2717</span>
+<span class="l3 a3"><em class="settop">讨论</em> <a href="/news,cjpl,943335006.html" title="行情反复也能游刃有余？智能“黑科技”助你捕捉逆势强势股，开户就能体验">行情反复也能游刃有余？智能“黑科技”助你捕捉逆势强</a></span>
+<span class="l4 a4"><a data-popper="2922094262312522" data-poptype="1" href="http://i.eastmoney.com/2922094262312522" target="_blank"><font>东方财富证券</font></a><input type="hidden" value="31000"/><a href="//accreditation2.eastmoney.com/"><em class="icon icon_jv_org" title="东方财富证券"></em></a></span>
+<span class="l5 a5">08-20 10:15</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">24806</span>
+<span class="l2 a2">35</span>
+<span class="l3 a3"><em class="settop">悬赏</em><a href="http://guba.eastmoney.com/list,tzbd.html" title="这个板块“第二春”要来了？数字货币概念也爆发了"> 这个板块“第二春”要来了？数字货币概念也爆发了</a></span>
+<span class="l4 a4"><a data-popper="6712111507146464" data-poptype="1" href="//i.eastmoney.com/6712111507146464" target="_blank"><font>东方财富网</font></a><a href="//accreditation2.eastmoney.com/"><em class="icon icon_jv_org" title="东方财富机构认证"></em></a></span>
+<span class="l5 a5">08-18 10:18</span>
+</div>
+<div class="articleh">
+<span class="l1">4111万</span>
+<span class="l2">2.1万</span>
+<span class="l3">
+<em class="settop">话题</em><a href="//gubatopic.eastmoney.com/topic.html?htid=2188" target="_blank">  #上市公司最新中报解读#</a>
+<img class="icon_hot" src="//gbfek.dfcfw.com/gubav5/images/hot.png">
+</img></span>
+<span class="l4 a4"><a data-popper="6712111507146464" data-poptype="1" href="//i.eastmoney.com/6712111507146464" target="_blank"><font>东方财富网</font></a><a href="//accreditation2.eastmoney.com/"><em class="icon icon_jv_org" title="东方财富机构认证"></em></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">9008</span>
+<span class="l2 a2">3</span>
+<span class="l3 a3"><em class="hinfo">资讯</em> <a href="/news,cjpl,957015855.html" title="大资金抛售集成电路大牛股出逃资金超12亿">大资金抛售集成电路大牛股出逃资金超12亿</a></span>
+<span class="l4 a4"><a data-popstock="cjpl" data-poptype="2" href="/list,cjpl.html" target="_blank"><font>财经评论资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:20</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">27037</span>
+<span class="l2 a2">69</span>
+<span class="l3 a3"><em class="hinfo">资讯</em> <a href="/news,601216,957019896.html" title="游资情报：超级牛股惊现溧阳路“孙哥”对倒出货 “小鳄鱼”被轮番砸盘">游资情报：超级牛股惊现溧阳路“孙哥”对倒出货 “小</a></span>
+<span class="l4 a4"><a data-popstock="601216" data-poptype="2" href="/list,601216.html" target="_blank"><font>君正集团资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:17</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">10.5万</span>
+<span class="l2 a2">641</span>
+<span class="l3 a3"><em class="hinfo">资讯</em> <a href="/news,601216,956986941.html" title="君正集团（601216）龙虎榜数据（08-19）">君正集团（601216）龙虎榜数据（08-19）</a></span>
+<span class="l4 a4"><a data-popstock="601216" data-poptype="2" href="/list,601216.html" target="_blank"><font>君正集团资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:16</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">9610</span>
+<span class="l2 a2">144</span>
+<span class="l3 a3"><em class="hinfo">公告</em> <a href="/news,601216,957005119.html" title="601216:君正集团:控股股东及实际控制人关于君正集团股票交易异常波动征询函的回复">601216:君正集团:控股股东及实际控制人关于君正集团股</a></span>
+<span class="l4 a4"><a data-popstock="601216" data-poptype="2" href="/list,601216.html" target="_blank"><font>君正集团资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:15</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">13048</span>
+<span class="l2 a2">12</span>
+<span class="l3 a3"><em class="settop">置顶</em> <a href="/news,gssz,957104333.html" title="【名博论市】大盘新高还会出现吗">【名博论市】大盘新高还会出现吗</a></span>
+<span class="l4 a4"><a data-popper="6088044594074350" data-poptype="1" href="http://i.eastmoney.com/6088044594074350" target="_blank"><font>质利跑</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:12</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">22562</span>
+<span class="l2 a2">5</span>
+<span class="l3 a3"><em class="settop">置顶</em> <em class="icon icon_list_img"></em> <a href="/news,601216,956848847.html" title="沪港深基金经理研究专题（二）：怎么研究沪港深基金经理？">沪港深基金经理研究专题（二）：怎么研究沪港深基金经</a></span>
+<span class="l4 a4"><a data-popper="5317015350936804" data-poptype="1" href="http://i.eastmoney.com/5317015350936804" target="_blank"><font>道叔选基</font></a><input type="hidden" value="20200"/><a href="//accreditation2.eastmoney.com/"><em class="icon icon_jv_per" title="知名财经自媒体"></em></a></span>
+<span class="l5 a5">08-20 10:02</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">7899</span>
+<span class="l2 a2">227</span>
+<span class="l3 a3"><em class="hinfo">公告</em> <a href="/news,601216,957005132.html" title="601216:君正集团股票交易异常波动公告">601216:君正集团股票交易异常波动公告</a></span>
+<span class="l4 a4"><a data-popstock="601216" data-poptype="2" href="/list,601216.html" target="_blank"><font>君正集团资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:58</span>
+</div>
+<div class="articleh">
+<span class="l1 a1">11217</span>
+<span class="l2 a2">6</span>
+<span class="l3 a3"><em class="hinfo">资讯</em> <a href="/news,cjpl,957016391.html" title="控股股东要重组？外资抢筹军工龙头股超6亿元">控股股东要重组？外资抢筹军工龙头股超6亿元</a></span>
+<span class="l4 a4"><a data-popstock="cjpl" data-poptype="2" href="/list,cjpl.html" target="_blank"><font>财经评论资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:07</span>
+</div>
+<div class="articleh" id="hide_zd">
+<span class="word">
+重要置顶内容还有<font class="red">2</font>条
+
+                                        </span>
+<div class="btn_zd">点击展开﹀</div>
+</div>
+<div class="articleh hidden zd">
+<span class="l1 a1">34029</span>
+<span class="l2 a2">46</span>
+<span class="l3 a3"><em class="settop">置顶</em> <a href="/news,gssz,956983392.html" title="【8.19股友神评论】吃你一只猪蹄，还你一头猪……">【8.19股友神评论】吃你一只猪蹄，还你一头猪……</a></span>
+<span class="l4 a4"><a data-popper="7428111481466798" data-poptype="1" href="http://i.eastmoney.com/7428111481466798" target="_blank"><font>股吧话题</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:02</span>
+</div>
+<div class="articleh hidden zd">
+<span class="l1 a1">14304</span>
+<span class="l2 a2">25</span>
+<span class="l3 a3"><em class="hinfo">资讯</em> <a href="/news,601216,956989569.html" title="多主力现身龙虎榜，君正集团3日上涨24.01%（08-19）">多主力现身龙虎榜，君正集团3日上涨24.01%（08-19）</a></span>
+<span class="l4 a4"><a data-popstock="601216" data-poptype="2" href="/list,601216.html" target="_blank"><font>君正集团资讯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 07:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">18829</span>
+<span class="l2 a2">53</span>
+<span class="l3 a3"><em class="icon icon_list_hot"></em><a href="/news,601216,957098850.html" title="今天反包这是肯定的，尾盘是大盘的问题，主力到最后都没有放弃。今天震荡以后拉升，如">今天反包这是肯定的，尾盘是大盘的问题，主力到最后都</a></span>
+<span class="l4 a4"><a data-popper="9862095375455938" data-poptype="1" href="http://i.eastmoney.com/9862095375455938" target="_blank"><font>sknip</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:51</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">16601</span>
+<span class="l2 a2">67</span>
+<span class="l3 a3"><em class="icon icon_list_hot"></em><a href="/news,601216,957091870.html" title="双头形成，暴力大跌开始，君正集团是一只可以套住一辈子的股票，今日远离别碰，核大队">双头形成，暴力大跌开始，君正集团是一只可以套住一辈</a></span>
+<span class="l4 a4"><a data-popper="1168004839660674" data-poptype="1" href="http://i.eastmoney.com/1168004839660674" target="_blank"><font>炒股游击队大队长</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:44</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">75170</span>
+<span class="l2 a2">252</span>
+<span class="l3 a3"><em class="icon icon_list_hot"></em><em class="icon icon_list_img"></em> <a href="/news,601216,956852030.html" title="依我看，今天君正主力会趁机放量扫货封板，洗下浮筹后接下来几天应该是缩量继续拉升，">依我看，今天君正主力会趁机放量扫货封板，洗下浮筹后</a></span>
+<span class="l4 a4"><a data-popper="3416125456830858" data-poptype="1" href="http://i.eastmoney.com/3416125456830858" target="_blank"><font>股大盛</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:36</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">15067</span>
+<span class="l2 a2">134</span>
+<span class="l3 a3"><em class="icon icon_list_hot"></em><a href="/news,601216,956759949.html" title="主力今天是打算洗得很透彻，不坚定的筹码基本上干净了，封板是板上钉钉的事，尤其是大">主力今天是打算洗得很透彻，不坚定的筹码基本上干净了</a></span>
+<span class="l4 a4"><a data-popper="8229585264290594" data-poptype="1" href="http://i.eastmoney.com/8229585264290594" target="_blank"><font>股托审判者</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:33</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">37414</span>
+<span class="l2 a2">115</span>
+<span class="l3 a3"><em class="icon icon_list_hot"></em><a href="/news,601216,956600953.html" title="收盘了，再来谈一谈君正！君正集团，集多重热点于一身的两市总龙头，竞价爆量，开盘后">收盘了，再来谈一谈君正！君正集团，集多重热点于一身</a></span>
+<span class="l4 a4"><a data-popper="2774094480918644" data-poptype="1" href="http://i.eastmoney.com/2774094480918644" target="_blank"><font>苏州捉龙师</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 09:33</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155836.html" title="会不会搞个天地板啊哈哈">会不会搞个天地板啊哈哈</a></span>
+<span class="l4 a4"><a data-popper="4649114724414072" data-poptype="1" href="http://i.eastmoney.com/4649114724414072" target="_blank"><font>黑市NO001</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155810.html" title="别抄底了风险太大了">别抄底了风险太大了</a></span>
+<span class="l4 a4"><a data-popper="9757645221461604" data-poptype="1" href="http://i.eastmoney.com/9757645221461604" target="_blank"><font>Hannahsgh</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">13.9万</span>
+<span class="l2 a2">100</span>
+<span class="l3 a3"><a href="http://guba.eastmoney.com/news,tzbd,957117691.html" title="2万亿美元巨头闪现！苹果财报大超预期A股小伙伴要">2万亿美元巨头闪现！苹果财报大超预期A股小伙伴要</a></span>
+<span class="l4 a4"><a data-popper="" data-poptype="1" href="https://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧</font></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155794.html" title="天没有黑就早早躺下，病得不轻啊！">天没有黑就早早躺下，病得不轻啊！</a></span>
+<span class="l4 a4"><a data-popper="1065094284972946" data-poptype="1" href="http://i.eastmoney.com/1065094284972946" target="_blank"><font>jinr88</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155495.html" title="同一样的手法割同一批韭菜。。[赞]">同一样的手法割同一批韭菜。。[赞]</a></span>
+<span class="l4 a4"><a data-popper="5117375680089272" data-poptype="1" href="http://i.eastmoney.com/5117375680089272" target="_blank"><font>坏蛋富贵险中求</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">4</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957156114.html" title="今天结束咯，明天再来">今天结束咯，明天再来</a></span>
+<span class="l4 a4"><a data-popper="7720325826549196" data-poptype="1" href="http://i.eastmoney.com/7720325826549196" target="_blank"><font>王德发aaa</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><em class="icon icon_list_img"></em> <a href="/news,601216,957173587.html" title="蚂蚁平安，君正平安，股友平安，大家平安">蚂蚁平安，君正平安，股友平安，大家平安</a></span>
+<span class="l4 a4"><a data-popper="7618395624985108" data-poptype="1" href="http://i.eastmoney.com/7618395624985108" target="_blank"><font>马化哪里腾</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154415.html" title="今天不要买明天还有一个跌停过来人吃过他的亏">今天不要买明天还有一个跌停过来人吃过他的亏</a></span>
+<span class="l4 a4"><a data-popper="7823325868367324" data-poptype="1" href="http://i.eastmoney.com/7823325868367324" target="_blank"><font>股友QWQVHG</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155680.html" title="把跌停的都吃掉就是有问题！肯定有事">把跌停的都吃掉就是有问题！肯定有事</a></span>
+<span class="l4 a4"><a data-popper="5808345762205014" data-poptype="1" href="http://i.eastmoney.com/5808345762205014" target="_blank"><font>战狼之横驱直入</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155716.html" title="不牛逼了？继续蹦啊？">不牛逼了？继续蹦啊？</a></span>
+<span class="l4 a4"><a data-popper="5363325693420672" data-poptype="1" href="http://i.eastmoney.com/5363325693420672" target="_blank"><font>基民JCAwz9</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1633</span>
+<span class="l2 a2">7</span>
+<span class="l3 a3"><em class="icon icon_list_img"></em> <a href="/news,601216,956982959.html" title="周三评君正集团:">周三评君正集团:</a></span>
+<span class="l4 a4"><a data-popper="4716513720811006" data-poptype="1" href="http://i.eastmoney.com/4716513720811006" target="_blank"><font>珠海炒股人</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">227</span>
+<span class="l2 a2">2</span>
+<span class="l3 a3"><a href="/news,601216,955570326.html" title="有毒吧，进省广亏15个点割肉进君正亏14个点又割肉，协鑫又跌[哭]">有毒吧，进省广亏15个点割肉进君正亏14个点又割肉，协</a></span>
+<span class="l4 a4"><a data-popper="6051345832200398" data-poptype="1" href="http://i.eastmoney.com/6051345832200398" target="_blank"><font>逍遥子一</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">13.9万</span>
+<span class="l2 a2">53</span>
+<span class="l3 a3"><a href="http://guba.eastmoney.com/news,tzbd,957082697.html" title="北向资金跑得比兔子还快！这个板块却掀起涨停潮">北向资金跑得比兔子还快！这个板块却掀起涨停潮</a></span>
+<span class="l4 a4"><a data-popper="" data-poptype="1" href="https://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧</font></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">3</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154298.html" title="我就不信今天一丁点的反弹都没有！哼">我就不信今天一丁点的反弹都没有！哼</a></span>
+<span class="l4 a4"><a data-popper="8359094335760594" data-poptype="1" href="http://i.eastmoney.com/8359094335760594" target="_blank"><font>好景良天冬</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">9</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154223.html" title="君正今天不是抄底的时候">君正今天不是抄底的时候</a></span>
+<span class="l4 a4"><a data-popper="5663065018969054" data-poptype="1" href="http://i.eastmoney.com/5663065018969054" target="_blank"><font>吉祥利市得楚留香</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154192.html" title="跌停买进[想一下]">跌停买进[想一下]</a></span>
+<span class="l4 a4"><a data-popper="3131094330472538" data-poptype="1" href="http://i.eastmoney.com/3131094330472538" target="_blank"><font>润泽888</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">4</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154291.html" title="妖王终于休息了">妖王终于休息了</a></span>
+<span class="l4 a4"><a data-popper="3372094368765580" data-poptype="1" href="http://i.eastmoney.com/3372094368765580" target="_blank"><font>专业小散牛仔哥</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154232.html" title="今天君正的杀盘不会就一天！">今天君正的杀盘不会就一天！</a></span>
+<span class="l4 a4"><a data-popper="9340112018635942" data-poptype="1" href="http://i.eastmoney.com/9340112018635942" target="_blank"><font>古家公子2</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">43174</span>
+<span class="l2 a2">68</span>
+<span class="l3 a3"><a href="http://guba.eastmoney.com/news,tzbd,957158214.html" title="逆市上涨！券商看好电力与环保子板块社保持仓5标的">逆市上涨！券商看好电力与环保子板块社保持仓5标的</a></span>
+<span class="l4 a4"><a data-popper="" data-poptype="1" href="https://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧</font></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1091</span>
+<span class="l2 a2">14</span>
+<span class="l3 a3"><a href="/news,601216,956946725.html" title="大家可以看看筹码分布，上面一根绿条全部洗空。">大家可以看看筹码分布，上面一根绿条全部洗空。</a></span>
+<span class="l4 a4"><a data-popper="9476305889259358" data-poptype="1" href="http://i.eastmoney.com/9476305889259358" target="_blank"><font>万万没想到8</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957173433.html" title="不走下午出不去">不走下午出不去</a></span>
+<span class="l4 a4"><a data-popper="4388094301437150" data-poptype="1" href="http://i.eastmoney.com/4388094301437150" target="_blank"><font>灿烂的阳光383</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">5</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155935.html" title="有钱难买龙回头抢">有钱难买龙回头抢</a></span>
+<span class="l4 a4"><a data-popper="2558355568633366" data-poptype="1" href="http://i.eastmoney.com/2558355568633366" target="_blank"><font>大发民丰得林平之</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">59</span>
+<span class="l2 a2">2</span>
+<span class="l3 a3"><a href="/news,601216,957165218.html" title="昨天进的全部被埋，不知能解套吗？">昨天进的全部被埋，不知能解套吗？</a></span>
+<span class="l4 a4"><a data-popper="3533513338842942" data-poptype="1" href="http://i.eastmoney.com/3533513338842942" target="_blank"><font>能小亏一点就好</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155469.html" title="正常人谁炒股呀">正常人谁炒股呀</a></span>
+<span class="l4 a4"><a data-popper="8042325904773308" data-poptype="1" href="http://i.eastmoney.com/8042325904773308" target="_blank"><font>乘风破浪大海嗨</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">9</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155456.html" title="今天进多少套多少，看看可以">今天进多少套多少，看看可以</a></span>
+<span class="l4 a4"><a data-popper="3482045433036994" data-poptype="1" href="http://i.eastmoney.com/3482045433036994" target="_blank"><font>股友SPMXj0</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">4</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155287.html" title="这下跌停估计回踩20日线">这下跌停估计回踩20日线</a></span>
+<span class="l4 a4"><a data-popper="8637094367584264" data-poptype="1" href="http://i.eastmoney.com/8637094367584264" target="_blank"><font>一锅土豆汁</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155846.html" title="没人接[偷笑][偷笑]">没人接[偷笑][偷笑]</a></span>
+<span class="l4 a4"><a data-popper="5462335897182654" data-poptype="1" href="http://i.eastmoney.com/5462335897182654" target="_blank"><font>专业华北吃肉20年</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">97309</span>
+<span class="l2 a2">105</span>
+<span class="l3 a3"><a href="http://guba.eastmoney.com/news,tzbd,957155111.html" title="大额外资频现身龙虎榜上榜个股存在“北向资金溢价”">大额外资频现身龙虎榜上榜个股存在“北向资金溢价”</a></span>
+<span class="l4 a4"><a data-popper="" data-poptype="1" href="https://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧</font></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">605</span>
+<span class="l2 a2">7</span>
+<span class="l3 a3"><a href="/news,601216,957117707.html" title="都八个点了，还怕你跌停啊？怕你啊？">都八个点了，还怕你跌停啊？怕你啊？</a></span>
+<span class="l4 a4"><a data-popper="8166094361642262" data-poptype="1" href="http://i.eastmoney.com/8166094361642262" target="_blank"><font>mcboy</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:28</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">66</span>
+<span class="l2 a2">1</span>
+<span class="l3 a3"><a href="/news,601216,957150731.html" title="给你地板机会让你抄底？想啥呢">给你地板机会让你抄底？想啥呢</a></span>
+<span class="l4 a4"><a data-popper="2195325739747020" data-poptype="1" href="http://i.eastmoney.com/2195325739747020" target="_blank"><font>小让让ox</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155850.html" title="就这样，等机构卖出达到3亿股，跌停版吃完以后就可以拉了">就这样，等机构卖出达到3亿股，跌停版吃完以后就可以</a></span>
+<span class="l4 a4"><a data-popper="2626355964587070" data-poptype="1" href="http://i.eastmoney.com/2626355964587070" target="_blank"><font>夜天之神</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154651.html" title="[加油][加油][加油][加油]这地板不错">[加油][加油][加油][加油]这地板不错</a></span>
+<span class="l4 a4"><a data-popper="9441325842793288" data-poptype="1" href="http://i.eastmoney.com/9441325842793288" target="_blank"><font>甄姬把大</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155385.html" title="的，今天被狠割韭菜了，不过这庄还是善良的，给机会你们跑了，不像其他股，跑的">的，今天被狠割韭菜了，不过这庄还是善良的，给机会你</a></span>
+<span class="l4 a4"><a data-popper="6870305510782202" data-poptype="1" href="http://i.eastmoney.com/6870305510782202" target="_blank"><font>馨馨予</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">15</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155032.html" title="神仙打架吗？">神仙打架吗？</a></span>
+<span class="l4 a4"><a data-popper="5925094369733576" data-poptype="1" href="http://i.eastmoney.com/5925094369733576" target="_blank"><font>晴天睡觉1838</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957173440.html" title="跌停板吃了10手，支持一下君正集团，这个股票让我挣了很多的钱，谢谢主力了。">跌停板吃了10手，支持一下君正集团，这个股票让我挣了</a></span>
+<span class="l4 a4"><a data-popper="1786094526598982" data-poptype="1" href="http://i.eastmoney.com/1786094526598982" target="_blank"><font>短线客10000</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">689</span>
+<span class="l2 a2">7</span>
+<span class="l3 a3"><a href="/news,601216,957144317.html" title="都没人卖？全在抢筹码呢。">都没人卖？全在抢筹码呢。</a></span>
+<span class="l4 a4"><a data-popper="7986575188002086" data-poptype="1" href="http://i.eastmoney.com/7986575188002086" target="_blank"><font>股友3XNN5H</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">9</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957146957.html" title="跌停我也只亏2个点，不要怕，干，今天不行明天，明天不行，下周，我就不信了">跌停我也只亏2个点，不要怕，干，今天不行明天，明天</a></span>
+<span class="l4 a4"><a data-popper="6073345959281944" data-poptype="1" href="http://i.eastmoney.com/6073345959281944" target="_blank"><font>壹炮而红</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">12.5万</span>
+<span class="l2 a2">41</span>
+<span class="l3 a3"><a href="http://guba.eastmoney.com/news,tzbd,957156627.html" title="二季度社保和QFII抱团30股三特征勾画机构投资">二季度社保和QFII抱团30股三特征勾画机构投资</a></span>
+<span class="l4 a4"><a data-popper="" data-poptype="1" href="https://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧</font></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957173427.html" title="跌停板吃了10手，支持一下君正集团，这个股票让我挣了很多的钱，谢谢主力了。">跌停板吃了10手，支持一下君正集团，这个股票让我挣了</a></span>
+<span class="l4 a4"><a data-popper="1786094526598982" data-poptype="1" href="http://i.eastmoney.com/1786094526598982" target="_blank"><font>短线客10000</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957173512.html" title="抄底了">抄底了</a></span>
+<span class="l4 a4"><a data-popper="5283115390653574" data-poptype="1" href="http://i.eastmoney.com/5283115390653574" target="_blank"><font>满仓干就是咯</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957173411.html" title="最后还是跌停！">最后还是跌停！</a></span>
+<span class="l4 a4"><a data-popper="9874615227440656" data-poptype="1" href="http://i.eastmoney.com/9874615227440656" target="_blank"><font>湖边散淡人111</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">5</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155274.html" title="散户要把大头洗出来">散户要把大头洗出来</a></span>
+<span class="l4 a4"><a data-popper="8935365813876008" data-poptype="1" href="http://i.eastmoney.com/8935365813876008" target="_blank"><font>哪有天天涨停的</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1061</span>
+<span class="l2 a2">5</span>
+<span class="l3 a3"><a href="/news,601216,957119219.html" title="那100万手直接被吃了？？？？？？">那100万手直接被吃了？？？？？？</a></span>
+<span class="l4 a4"><a data-popper="1936335943649874" data-poptype="1" href="http://i.eastmoney.com/1936335943649874" target="_blank"><font>山顶的韭菜芽</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">4</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155738.html" title="还好昨天跑了。。">还好昨天跑了。。</a></span>
+<span class="l4 a4"><a data-popper="7825515263624134" data-poptype="1" href="http://i.eastmoney.com/7825515263624134" target="_blank"><font>不负好时光3</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155307.html" title="跌停价买入[旺柴]">跌停价买入[旺柴]</a></span>
+<span class="l4 a4"><a data-popper="6024375861595144" data-poptype="1" href="http://i.eastmoney.com/6024375861595144" target="_blank"><font>财运高雅的张无忌</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">251</span>
+<span class="l2 a2">2</span>
+<span class="l3 a3"><a href="/news,601216,956941187.html" title="40万手都不能封板，说明空头强了">40万手都不能封板，说明空头强了</a></span>
+<span class="l4 a4"><a data-popper="8031335855456186" data-poptype="1" href="http://i.eastmoney.com/8031335855456186" target="_blank"><font>混水摸大鱼</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154809.html" title="这个所谓的蚂蚁金服概念就值9快嘛？难道不是太便宜了嘛">这个所谓的蚂蚁金服概念就值9快嘛？难道不是太便宜了</a></span>
+<span class="l4 a4"><a data-popper="9709064646765652" data-poptype="1" href="http://i.eastmoney.com/9709064646765652" target="_blank"><font>川2069</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">186</span>
+<span class="l2 a2">2</span>
+<span class="l3 a3"><a href="/news,601216,957153833.html" title="今天天地板？">今天天地板？</a></span>
+<span class="l4 a4"><a data-popper="4447024591676880" data-poptype="1" href="http://i.eastmoney.com/4447024591676880" target="_blank"><font>股友MWcOMm</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">11.7万</span>
+<span class="l2 a2">305</span>
+<span class="l3 a3"><a href="http://guba.eastmoney.com/news,tzbd,956803374.html" title="新机会！机构一致看好水泥、建材、玻璃等行业个股">新机会！机构一致看好水泥、建材、玻璃等行业个股</a></span>
+<span class="l4 a4"><a data-popper="" data-poptype="1" href="https://i.eastmoney.com/3006113720930996" target="_blank"><font>股吧</font></a></span>
+<span class="l5 a5">08-20 10:30</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154998.html" title="跌停板抢啊哈哈哈">跌停板抢啊哈哈哈</a></span>
+<span class="l4 a4"><a data-popper="7391015411283350" data-poptype="1" href="http://i.eastmoney.com/7391015411283350" target="_blank"><font>拉撒路杨无敌</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">5</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154846.html" title="今天逃掉的资金很怕怕。。。。。。明天肯定要继续跌停">今天逃掉的资金很怕怕。。。。。。明天肯定要继续跌停</a></span>
+<span class="l4 a4"><a data-popper="6314345802568076" data-poptype="1" href="http://i.eastmoney.com/6314345802568076" target="_blank"><font>股友JfHaEh</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">85231</span>
+<span class="l2 a2">2379</span>
+<span class="l3 a3"><em class="icon icon_list_img"></em> <a href="/news,601216,951675701.html" title="8月份金股，首周大胜近60%，继续铁索连舟[火箭]">8月份金股，首周大胜近60%，继续铁索连舟[火箭]</a></span>
+<span class="l4 a4"><a data-popper="2188513844446512" data-poptype="1" href="http://i.eastmoney.com/2188513844446512" target="_blank"><font>老大哥888</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154704.html" title="封死，千万别开板">封死，千万别开板</a></span>
+<span class="l4 a4"><a data-popper="3822385941283288" data-poptype="1" href="http://i.eastmoney.com/3822385941283288" target="_blank"><font>机器猫什么都有</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155464.html" title="友情提示，君正集团看看就好，千万别去抄底">友情提示，君正集团看看就好，千万别去抄底</a></span>
+<span class="l4 a4"><a data-popper="6238215561815030" data-poptype="1" href="http://i.eastmoney.com/6238215561815030" target="_blank"><font>雾霾太大</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155421.html" title="昨天进的就这样20个点？没了">昨天进的就这样20个点？没了</a></span>
+<span class="l4 a4"><a data-popper="4320255517706922" data-poptype="1" href="http://i.eastmoney.com/4320255517706922" target="_blank"><font>股友vdUeGp</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155308.html" title="砸盘">砸盘</a></span>
+<span class="l4 a4"><a data-popper="7378325577618744" data-poptype="1" href="http://i.eastmoney.com/7378325577618744" target="_blank"><font>股友UvN1VV</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">217</span>
+<span class="l2 a2">2</span>
+<span class="l3 a3"><a href="/news,601216,957133398.html" title="11的山顶有点凉凉啊！啥时能创个新高，报团取个暖！老铁们">11的山顶有点凉凉啊！啥时能创个新高，报团取个暖！老</a></span>
+<span class="l4 a4"><a data-popper="7154094398602244" data-poptype="1" href="http://i.eastmoney.com/7154094398602244" target="_blank"><font>一路向上857</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">76121</span>
+<span class="l2 a2">367</span>
+<span class="l3 a3"><em class="icon icon_list_img"></em> <a href="/news,601216,956963460.html" title="知足吧，您内！今天赚了3万元，本打算涨停减仓三分之一，没来的及卖出去，拿到10.">知足吧，您内！今天赚了3万元，本打算涨停减仓三分之</a></span>
+<span class="l4 a4"><a data-popper="9201325643764956" data-poptype="1" href="http://i.eastmoney.com/9201325643764956" target="_blank"><font>卧龙我曾永远的爱</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155422.html" title="拼刺刀了！">拼刺刀了！</a></span>
+<span class="l4 a4"><a data-popper="5810355813026150" data-poptype="1" href="http://i.eastmoney.com/5810355813026150" target="_blank"><font>股友wNDhlj</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10024</span>
+<span class="l2 a2">11</span>
+<span class="l3 a3"><a href="/news,601216,957067596.html" title="君正集团今天遇到压力位又赶上大盘跳水，导致主力封板不坚决，形态上看比较像双头，但">君正集团今天遇到压力位又赶上大盘跳水，导致主力封板</a></span>
+<span class="l4 a4"><a data-popper="9672305840323442" data-poptype="1" href="http://i.eastmoney.com/9672305840323442" target="_blank"><font>贫由贪起</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">3130</span>
+<span class="l2 a2">17</span>
+<span class="l3 a3"><em class="icon icon_list_img"></em> <a href="/news,601216,957035458.html" title="今天的筹码交易，明天拉高是必然的，如果把握不住的自己看着获利就出吧，胆子大的就继">今天的筹码交易，明天拉高是必然的，如果把握不住的自</a></span>
+<span class="l4 a4"><a data-popper="4961335860747712" data-poptype="1" href="http://i.eastmoney.com/4961335860747712" target="_blank"><font>小赚两个点</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">4</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154954.html" title="市场已鸟枪换炮，龙头从此与君正无关了">市场已鸟枪换炮，龙头从此与君正无关了</a></span>
+<span class="l4 a4"><a data-popper="4966064813404242" data-poptype="1" href="http://i.eastmoney.com/4966064813404242" target="_blank"><font>股友LsRkpI5029</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154757.html" title="[求内幕]">[求内幕]</a></span>
+<span class="l4 a4"><a data-popper="1428315523049770" data-poptype="1" href="http://i.eastmoney.com/1428315523049770" target="_blank"><font>彭三三</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957153843.html" title="看下level2，全是散户再买。。。。">看下level2，全是散户再买。。。。</a></span>
+<span class="l4 a4"><a data-popper="6172325833919154" data-poptype="1" href="http://i.eastmoney.com/6172325833919154" target="_blank"><font>股市柯镇恶</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">5</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154674.html" title="好家伙跌停了">好家伙跌停了</a></span>
+<span class="l4 a4"><a data-popper="2237355946446742" data-poptype="1" href="http://i.eastmoney.com/2237355946446742" target="_blank"><font>点石高雅得任我行</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154676.html" title="我进来就没肉吃了？">我进来就没肉吃了？</a></span>
+<span class="l4 a4"><a data-popper="1411013673962728" data-poptype="1" href="http://i.eastmoney.com/1411013673962728" target="_blank"><font>华丽转身8866</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154399.html" title="可以下班了，该干嘛干嘛去了，真爽">可以下班了，该干嘛干嘛去了，真爽</a></span>
+<span class="l4 a4"><a data-popper="7248035299977916" data-poptype="1" href="http://i.eastmoney.com/7248035299977916" target="_blank"><font>股友AwrYfZ3928</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">8</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154371.html" title="全世界都知道今天跌停">全世界都知道今天跌停</a></span>
+<span class="l4 a4"><a data-popper="9713085402535908" data-poptype="1" href="http://i.eastmoney.com/9713085402535908" target="_blank"><font>做一年怕一年</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957155377.html" title="跌停价进了，赌一把，输了这个月就不吃肉了">跌停价进了，赌一把，输了这个月就不吃肉了</a></span>
+<span class="l4 a4"><a data-popper="5982015419877116" data-poptype="1" href="http://i.eastmoney.com/5982015419877116" target="_blank"><font>股友DyQZAY</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154722.html" title="朝他评级的。。">朝他评级的。。</a></span>
+<span class="l4 a4"><a data-popper="7531355954866286" data-poptype="1" href="http://i.eastmoney.com/7531355954866286" target="_blank"><font>炒股都是上班</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">119</span>
+<span class="l2 a2">1</span>
+<span class="l3 a3"><a href="/news,601216,957131152.html" title="竞价梭哈了，给个惊喜别是惊吓">竞价梭哈了，给个惊喜别是惊吓</a></span>
+<span class="l4 a4"><a data-popper="5509335794928382" data-poptype="1" href="http://i.eastmoney.com/5509335794928382" target="_blank"><font>你俞二叔</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154721.html" title="我9.34全部梭哈了">我9.34全部梭哈了</a></span>
+<span class="l4 a4"><a data-popper="2169365821152340" data-poptype="1" href="http://i.eastmoney.com/2169365821152340" target="_blank"><font>多文腾达de扫地僧</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">1693</span>
+<span class="l2 a2">12</span>
+<span class="l3 a3"><a href="/news,601216,957136975.html" title="君正下调评级至7元，各位怎么看">君正下调评级至7元，各位怎么看</a></span>
+<span class="l4 a4"><a data-popper="2023305873176406" data-poptype="1" href="http://i.eastmoney.com/2023305873176406" target="_blank"><font>调整心态保持理智</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">3</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154957.html" title="只是大盘不行，该抄底就抄，不要慌">只是大盘不行，该抄底就抄，不要慌</a></span>
+<span class="l4 a4"><a data-popper="6683305904219694" data-poptype="1" href="http://i.eastmoney.com/6683305904219694" target="_blank"><font>股友rVbYdZ</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154924.html" title="成本价10.7还有谁更高的。">成本价10.7还有谁更高的。</a></span>
+<span class="l4 a4"><a data-popper="2876385948667822" data-poptype="1" href="http://i.eastmoney.com/2876385948667822" target="_blank"><font>点石为富的庄药师</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">110</span>
+<span class="l2 a2">1</span>
+<span class="l3 a3"><a href="/news,601216,957151913.html" title="不要幻想了，跑吧">不要幻想了，跑吧</a></span>
+<span class="l4 a4"><a data-popper="9588015022075488" data-poptype="1" href="http://i.eastmoney.com/9588015022075488" target="_blank"><font>心象心象</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">163</span>
+<span class="l2 a2">2</span>
+<span class="l3 a3"><a href="/news,601216,957128543.html" title="昨天120亿全卖给散户了？">昨天120亿全卖给散户了？</a></span>
+<span class="l4 a4"><a data-popper="5117375680089272" data-poptype="1" href="http://i.eastmoney.com/5117375680089272" target="_blank"><font>坏蛋富贵险中求</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">11</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154535.html" title="第一次看到君正跌停板">第一次看到君正跌停板</a></span>
+<span class="l4 a4"><a data-popper="8290075035625490" data-poptype="1" href="http://i.eastmoney.com/8290075035625490" target="_blank"><font>阿鹏在股市吃肉</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:27</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">10</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957153871.html" title="漂亮">漂亮</a></span>
+<span class="l4 a4"><a data-popper="8450315563881470" data-poptype="1" href="http://i.eastmoney.com/8450315563881470" target="_blank"><font>股友Z1ncEm</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:26</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">7</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154541.html" title="今天谁抄底[滴汗][滴汗]">今天谁抄底[滴汗][滴汗]</a></span>
+<span class="l4 a4"><a data-popper="3693385523615112" data-poptype="1" href="http://i.eastmoney.com/3693385523615112" target="_blank"><font>股友IHV2d8</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:26</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">11</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154976.html" title="抄地板">抄地板</a></span>
+<span class="l4 a4"><a data-popper="3048325943790614" data-poptype="1" href="http://i.eastmoney.com/3048325943790614" target="_blank"><font>高手也怕失手</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:26</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">6</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154041.html" title="[哭][哭][哭]关灯吃面">[哭][哭][哭]关灯吃面</a></span>
+<span class="l4 a4"><a data-popper="1275145319230904" data-poptype="1" href="http://i.eastmoney.com/1275145319230904" target="_blank"><font>股友5MZWGZ</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:26</span>
+</div>
+<div class="articleh normal_post">
+<span class="l1 a1">12</span>
+<span class="l2 a2">0</span>
+<span class="l3 a3"><a href="/news,601216,957154743.html" title="出逃的资金打算去哪儿呢[为什么]">出逃的资金打算去哪儿呢[为什么]</a></span>
+<span class="l4 a4"><a data-popper="1778065350005272" data-poptype="1" href="http://i.eastmoney.com/1778065350005272" target="_blank"><font>寒江陪烟火</font></a><input type="hidden" value="0"/></span>
+<span class="l5 a5">08-20 10:26</span>
+</div>
+<div class="pager" style="border-top: 1px solid #D7E5FF;">
+<span class="pagernums" data-pager="list,601216_|311165|80|1"></span>
+</div>
+<div class="clear"></div>
+</div>
+<!--耗时 0 毫秒 (2020/8/20 10:30:38 - 2020/8/20 10:30:38 )-->
+<div class="gbbox1" id="sendnewt">
+<div class="gbboxt" id="publishnew">
+<div class="gb_tabs">
+<div class="tab tab_post current">发表新主题</div>
+<div class="tab tab_qa">
+                        问董秘
+                    </div>
+<div class="tab tab_wenda">悬赏提问</div>
+<div class="tab tab_toupiao" style="display:none;">
+                        发起投票
+                    </div>
+<div class="tab tab_hongbao" style="display:none;">
+                        发红包
+                    </div>
+</div>
+<span class="appealspan"><a href="javascript:;" id="appealuserlink" target="_self">帖子不见了！怎么办？</a></span>
+                  
+            </div>
+<div class="gbboxtr">   <span class="topbarlogin">请登录 <a class="gubaloginlink" href="" id="bottomlogin"><strong>登录</strong></a> | <a class="strlink gubareglink" href="" id="bottomreg">5秒注册</a></span> <span class="topbarhaslogin">作者：<strong class="headerusername"><span class="username"></span></strong> <a class="logoutbtn" href="javascript:;" target="_self">退出</a> </span></div>
+<div class="gbboxb publishnew">
+<div action="" id="gbsform" method="post" name="gbsform">
+<div data-allow_image="1" id="xeditor"></div>
+</div>
+<form action="" class="gbsform qaform" id="qaform" style="display: none;">
+<div class="box_container">
+<textarea class="textarea ques_area gbsformt1 ftgudong askdcontainer" id="qa_content" name=""></textarea>
+<div class="text_tips" id="text_tips_qa" style="display: block;">
+<span>该平台欢迎投资者的广泛意见，但为了共同营造和谐的交流气氛，提升平台的专业性，需提醒投资者提出的问题内容不得含有中伤他人的、侮辱性的、攻击性的、缺乏事实依据的和违反当前法律的言语信息。含有上述信息内容的问题、纯粹询问股价或发泄情绪的问题，就同一个主题重复提问且被投诉的问题将不予发布。</span>
+</div>
+<button class="ask_btn" id="qa_ask_btn" type="submit">提问</button>
+<span class="enter_tips">您还可以输入<span id="qa_enter_num">140</span>个字</span>
+<div class="clear"></div>
+</div>
+</form>
+<form action="" class="gbsform qaform" id="wendaform" style="display:none;">
+<div class="box_container">
+<textarea class="textarea gbsformt1" id="wenda_content" name=""></textarea>
+<div class="text_tips" id="text_tips_wenda" style="display: block;">
+<span>请输入您要提问的内容，字数不少于10个字</span>
+</div>
+<a data-fun="face" href="javascript:;" id="wenda_gbtainpubtn" target="_self"><em class="iconface"></em>表情</a>
+                         
+                        <a class="btn_xuanshang" href="javascript:;" target="_self">悬赏2元</a>
+<button class="wenda_btn" id="wenda_btn" type="submit">提问</button>
+<span class="wenda_tips">注：您目前是向 <span class="wenda_barname" id="wenda_barname"></span> 的全体股友提问</span>
+<div class="clear"></div>
+</div>
+</form>
+</div>
+</div>
+<div style="color: #666666; padding: 10px 0 0 0; clear: both; line-height: 120%;">
+            郑重声明：用户在社区发表的所有资料、言论等仅仅代表个人观点，与本网站立场无关，不对您构成任何投资建议。用户应基于自己的独立判断，自行决定证券投资并承担相应风险。<a href="/gltl.aspx" target="_blank">《东方财富社区管理规定》</a>
+</div>
+<div class="siderg" style="padding: 10px 0 0 0; clear: both;">
+<iframe frameborder="0" height="90" marginheight="0" marginwidth="0" scrolling="no" src="//same.eastmoney.com/s?z=eastmoney&amp;c=1552&amp;op=1" width="730"></iframe>
+</div>
+</div>
+<div id="sider"></div>
+</div>
+<div class="clear"></div>
+<!-- footer-2016 -->
+<style>
+    .footer2016 ul {list-style: none;margin: 0;padding: 0;}
+    .footer2016 a:hover{color:#ff4901 !important;text-decoration: underline !important;}
+    .footer2016 .icon, .footer2016 .navlist li a {display: inline-block;}
+    .footer2016 .icon {background-image: url(//g1.dfcfw.com/g4/202005/20200513165332.png);background-repeat: no-repeat;}
+    .footer2016 {margin: 0 auto;clear: both;width: 1000px;line-height: 1.1;_line-height: 1.2;font-family: simsun;font-size: 12px;border-top: 2px solid #2F5895;}
+    .footer2016 .footertg {background-color: #F3F3F3;float: left;width: 100%;padding: 12px 0 0;height: 140px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qr {float: left;width: 80px;height: 140px;line-height: 150%;padding: 0 10px 0 8px;}
+    .footer2016 .qr .t {font-weight: 700;font-size: 14px;padding-bottom: 10px;}
+    .footer2016 .icon_qrem80, .footer2016 .icon_qrjj80 {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 80px;height: 80px;}
+    .footer2016 .icon_qrem80 {background-position: 0 -330px;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {background-image: url(//g1.dfcfw.com/g2/201607/20160728133707.png);width: 86px;height: 106px;}
+    .footer2016 .icon_emwxqr {background-position: -90px 0;}
+    .footer2016 .ftglist ul li.qrli {position: relative;}
+    .footer2016 .ftglist ul li.qrli:hover .icon_qr, .footer2016 .scl-news .name a {display: block;}
+    .footer2016 .icon_emwxqr, .footer2016 .icon_jjwxqr {display: none;position: absolute;left: 0;top: 24px;}
+    .footer2016 .ftglist {float: left;height: 140px;padding: 0px 10px;}
+    .footer2016 .ftglistt {font-size: 14px;font-weight: 700;line-height: 130%;padding-bottom: 6px;text-align: left;}
+    .footer2016 .ftglist ul li {padding: 5px 0;color: #676767;text-align: left;}
+    .footer2016 .icon_wb {background-position: -24px 0;width: 14px;height: 12px;}
+    .footer2016 .icon_wx {background-position: 0 0;width: 14px;height: 11px;}
+    .footer2016 .icon_note {background-position: -47px 0;width: 13px;height: 11px;}
+    .footer2016 .ftglist .icon {vertical-align: -1px;margin-right: 2px;}
+    .footer2016 .footertg a:link, .footer2016 .footertg a:visited {color: #676767;text-decoration: none;}
+    .footer2016 .qrl {border-left: 1px solid #ddd;margin-left: 10px;padding-left: 20px;}
+    .footer2016 .icon_qrjj80 {background-position: -90px -330px;}
+    .footer2016 .footercr {clear: both;text-align: center;line-height: 26px;font-size: 12px;width:1000px;margin: 0 auto;height:26px;overflow:hidden;}
+    .footer2016 .icon_icp {background-position: -24px -21px;width: 15px;height: 17px;}
+    .footer2016 .footercr .icon {vertical-align: -3px;margin-right: 2px;}
+    .footer2016 .icon_pol {background-position: 0 -22px;width: 18px;height: 20px;}
+    .footer2016 .footerlinks {background-color: #2F5895;height: 30px;text-align: center;line-height: 30px;}
+    .footer2016 .footerlinks a:link, .footer2016 .footerlinks a:visited, .footer2016 .footerlinks a:hover {color: #fff !important;text-decoration: none;margin: 0 14px;}
+    .footer2016 .footerbz {text-align: center;padding: 12px 0;}
+    .footer2016 .footerbz a {margin: 0 4px;}
+    .footer2016 .footer-police {background-position: 0 -112px;width: 110px;height: 40px;}
+    .footer2016 .footer-zx110 {background-position: -120px -113px;width: 110px;height: 40px;}
+    .footer2016 .footer-shjubao {background-position: 0 -172px;width: 110px;height: 40px;}
+    .footer2016 .footer-cxzx {background-position: -120px -174px;width: 40px;height: 40px;}
+    .footer2016 .footer-shgs {background-position: -180px -174px;width: 47px;height: 40px;}
+    .footer2016 .footer-12377 {background-position: 0 -54px;width: 186px;height: 40px;}
+    .footer2016 .footer-yhjb {background-position: 0 -229px;width: 123px;height: 40px;}
+    .footer2016 .footer-qrlast {width: 90px;}
+    .footer2016 .footer-icon-qihuoqr { background: url(https://emcharts.dfcfw.com/images/qihuoqr.png);width: 80px;height: 80px;display: inline-block;background-repeat: no-repeat;vertical-align: -5px;}
+</style>
+<div class="footer2016">
+<div class="footertg">
+<div class="qr">
+<div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富</a></div>
+<a href="http://acttg.eastmoney.com/pub/web_app_dcsy_2wm_01_01_01_0" target="_blank"><em class="icon icon_qrem80"></em></a><br/>扫一扫下载APP
+        </div>
+<div class="ftglist">
+<div class="ftglistt">东方财富产品</div>
+<ul>
+<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwmfb_01_01_01_0" target="_blank">东方财富免费版</a></li>
+<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfwl2_01_01_01_0" target="_blank">东方财富Level-2</a></li>
+<li><a href="http://js5.eastmoney.com/tg.aspx?ID=1483" target="_blank">投资大师</a></li>
+<li><a href="http://js5.eastmoney.com/tg.aspx?ID=2749" target="_blank">Choice金融终端</a></li>
+<li style="display: none;"><a href="http://www.langke.com/" target="_blank">浪客 - 财经视频</a></li>
+</ul>
+</div>
+<div class="ftglist">
+<div class="ftglistt">证券交易</div>
+<ul>
+<li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dbtkwzl_01_01_01_0" target="_blank">东方财富证券开户</a></li>
+<li><a href="https://jy.xzsec.com/Trade/Buy" target="_blank">东方财富在线交易</a></li>
+<li><a href="https://acttg.eastmoney.com/pub/pctg_hskh_act_dfcfzqjy_01_01_01_0" target="_blank">东方财富证券交易</a></li>
+</ul>
+</div>
+<div class="ftglist">
+<div class="ftglistt">关注东方财富</div>
+<ul>
+<li><a href="http://weibo.com/dfcfw" target="_blank"><em class="icon icon_wb"></em>东方财富网微博</a></li>
+<li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>东方财富网微信</a><em class="icon icon_qr icon_emwxqr"></em></li>
+<li><a href="http://corp.eastmoney.com/Lianxi_liuyan.asp" target="_blank"><em class="icon icon_note"></em>意见与建议</a></li>
+</ul>
+</div>
+<div class="qr qrl">
+<div class="t"><a href="http://acttg.eastmoney.com/pub/web_ttjjsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">天天基金</a></div>
+<a href="http://js1.eastmoney.com/tg.aspx?ID=4672" target="_blank"><em class="icon icon_qrjj80"></em></a><br/>扫一扫下载APP
+        </div>
+<div class="ftglist">
+<div class="ftglistt">基金交易</div>
+<ul>
+<li><a href="https://trade6.1234567.com.cn/reg/step1" target="_blank">基金开户</a></li>
+<li><a href="https://trade.1234567.com.cn/login" target="_blank">基金交易</a></li>
+<li><a href="http://huoqibao.1234567.com.cn/" target="_blank">活期宝</a></li>
+<li><a href="http://fund.eastmoney.com/trade/default.html" target="_blank">基金产品</a></li>
+<li><a href="http://fund.eastmoney.com/gslc/" target="_blank">稳健理财</a></li>
+</ul>
+</div>
+<div class="ftglist">
+<div class="ftglistt">关注天天基金</div>
+<ul>
+<li><a href="http://weibo.com/ttfund" target="_blank"><em class="icon icon_wb"></em>天天基金网微博</a></li>
+<li class="qrli"><a href="javascript:;" target="_self"><em class="icon icon_wx"></em>天天基金网微信<em class="icon icon_qr icon_jjwxqr"></em></a></li>
+</ul>
+</div>
+<div class="qr qrl footer-qrlast">
+<div class="t"><a href="http://acttg.eastmoney.com/pub/web_dfcfqhsy_dbtg_wzl_01_01_01_1" style="color:#000" target="_blank">东方财富期货</a></div>
+<a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibudfcfqh_01_01_01_1" target="_blank"><em class="footer-icon-qihuoqr"></em></a><br/>扫一扫下载APP
+        </div>
+<div class="ftglist">
+<div class="ftglistt">期货交易</div>
+<ul>
+<li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhsjkh_01_01_01_1" target="_blank">期货手机开户</a></li>
+<li><a href="https://acttg.eastmoney.com/pub/web_kh_dcsy_dibudnkh_01_01_01_1" target="_blank">期货电脑开户</a></li>
+<li><a href="http://acttg.eastmoney.com/pub/web_kh_dcsy_dibuqhgfwz_01_01_01_1" target="_blank">期货官方网站</a></li>
+</ul>
+</div>
+</div>
+<div class="footercr" style="padding-top:8px;">信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-34289898 举报邮箱：<a href="mailto:jubao@eastmoney.com" target="_self">jubao@eastmoney.com</a></div>
+<div class="footercr" style="padding-bottom:8px;">
+<em class="icon icon_icp"></em>沪ICP证:沪B2-20070217 <a href="http://www.beian.miit.gov.cn/" rel="nofollow" style="color: #3F3F3F;text-decoration:none;" target="_blank">网站备案号:沪ICP备05006054号-11 </a> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402000120" rel="nofollow" style="color: #3F3F3F;text-decoration:none;" target="_blank"><em class="icon icon_pol"></em>沪公网安备 31010402000120号</a> 版权所有:东方财富网 意见与建议:021-54509966/952500
+        </div>
+<div class="footerlinks">
+<a href="http://about.eastmoney.com" rel="nofollow" target="_blank">关于我们</a>
+<a href="http://emhd2.eastmoney.com/market" rel="nofollow" target="_blank">广告服务</a>
+<a href="http://about.eastmoney.com/home/contact" rel="nofollow" target="_blank">联系我们</a>
+<a href="http://eastmoney.zhiye.com" rel="nofollow" target="_blank">诚聘英才</a>
+<a href="http://about.eastmoney.com/home/disclaimer" rel="nofollow" target="_blank">免责声明</a>
+<a href="http://about.eastmoney.com/home/legal" rel="nofollow" target="_blank">法律声明</a>
+<a href="http://about.eastmoney.com/home/conceal" rel="nofollow" target="_blank">隐私保护</a>
+<a href="http://about.eastmoney.com/home/parper" rel="nofollow" target="_blank">征稿启事</a>
+<a href="http://www.zx110.org/cxs/index.html" rel="nofollow" target="_blank">放心搜</a>
+<a href="http://about.eastmoney.com/home/links" rel="nofollow" target="_blank">友情链接</a>
+</div>
+<div class="footerbz">
+<img src="//g1.dfcfw.com/g3/201905/20190531140719.png" style="vertical-align: bottom;" title="亲爱的市民朋友，上海警方反诈劝阻电
+话“962110”系专门针对避免您财产被
+骗受损而设，请您一旦收到来电，立即
+接听。"/>
+<a class="icon footer-police" href="http://www.cyberpolice.cn/" rel="nofollow" target="_blank" title="上海网警网络110"></a>
+<a class="icon footer-zx110" href="http://www.zx110.org/" rel="nofollow" target="_blank" title="网络社会征信网"></a>
+<a class="icon footer-shjubao" href="http://www.shjbzx.cn/" rel="nofollow" target="_blank" title="上海违法和违规信息举报中心"></a>
+<a class="icon footer-12377" href="http://www.12377.cn" rel="nofollow" target="_blank" title="中国互联网违法和不良信息举报中心"></a>
+</div>
+</div>
+<script>
+    if(document.all && !window.XMLHttpRequest){
+        $(".qrli").hover(function(){
+            $(".icon_qr",this).show();
+        },function(){
+            $(".icon_qr",this).hide();
+        });
+    }
+</script>
+</body>
+</html>
+<script>  
+    var is_test=false;
+</script>
+<script src="//gbfek.dfcfw.com/project/guba/modules/config_guba.js?r=148"></script>
+<script src="//gbfek.dfcfw.com/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="//emcharts.dfcfw.com/suggest/stocksuggest2017.min.js"></script>
+<script src="//cfgpassport2.eastmoney.com/captcha/scripts/em_capt.js"></script>
+<link href="//gbfek.dfcfw.com/project/xeditor/xeditor.css" rel="stylesheet"/>
+<script src="//gbfek.dfcfw.com/project/xeditor/xeditor.js"></script>
+<script src="//gbfek.dfcfw.com/deploy/guba_web/work/list.js?r=148"></script>
+<script src="//gbfek.dfcfw.com/gubav5/modules/rightpromotion/rightpromotion.js?r=5"></script>
+<style>
+    .article_title {
+        border: 0;
+        outline: 0;
+        width: 100%;
+        box-sizing: border-box;
+        padding-left: 10px;
+        font-size: 20px;
+        height: 40px;
+        font-weight: 700;
+    }
+</style>
+<script src="//gbfek.dfcfw.com/libs/elplayer/js/elplayer.min.js"></script>
+<script src="//gbfek.dfcfw.com/tg/EMBottomSearchTG/EMBottomSearchTG-1.0.3.min.js?v=1"></script>
+<script type="text/javascript">
+    var newEMBottomSearchTG = new EMBottomSearchTG({
+        main_width: 1000,
+        main_img: 'http://z1.dfcfw.com/2015/6/10/201506101029321460568336.jpg', //推广图片  imgurl
+        link: 'http://stattg.eastmoney.com/10267' //推广链接  aurl
+    });
+    newEMBottomSearchTG.show();
+</script>
+<script charset="utf-8" src="//emcharts.dfcfw.com/newsts/newsts.min.js" type="text/javascript"></script>
+<script charset="utf-8" src="//emcharts.dfcfw.com/usercollect/usercollect.min.js" type="text/javascript"></script>
+<script>var _gglist = '601216.2.君正集团.3';</script>
+<script charset="UTF-8" type="text/javascript">
+    try{
+        var emtj_isUpload=1;
+        var emtj_pageId=117001301474;
+        //var emtj_startTime=0;
+        var emtj_logSet = "1111111111";
+        var emtj_sampleRate=1;
+    }catch(err){}
+</script>
+<script charset="UTF-8" src="//bdstatics.eastmoney.com/web/prd/jump_tracker.js" type="text/javascript"></script>
+<img src="/images/blank.gif?r=44eafd5b0b574654a60be27caf5fd910" style="opacity: 0">
+</img>
