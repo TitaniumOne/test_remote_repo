@@ -45,14 +45,16 @@ def getData(bs):
         print("list=",list1)
         for ri in list1:
             op = open("eastmoney1.txt","a")
-            #op.write(ri) 
+            op.write(ri) 
     
 
 
 
 html = askURL(url)
-bs = BeautifulSoup(html,"html.parser")
-getData(bs)
+op = open("eastmoney111111.txt","a")
+op.write(html)            
+# bs = BeautifulSoup(html,"html.parser")
+# getData(bs)
 
 #print(bs.title.contents[0])
 # for tit in bs.find_all('title',class=)
