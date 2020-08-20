@@ -45,7 +45,9 @@ def getData(bs):
         print("list=",list1)
         for ri in list1:
             op = open("eastmoney1.txt","a")
-            #op.write(ri) 
+            op.write(ri) 
+    
+def 
     
 
 
@@ -54,18 +56,18 @@ html = askURL(url)
 bs = BeautifulSoup(html,"html.parser")
 getData(bs)
 
-#print(bs.title.contents[0])
+# print(bs.title.contents[0])
 # for tit in bs.find_all('title',class=)
 
 
 
-#op.write(str(bs.select('title')))
-#print(bs.find_all(text=re.compile("新闻")))
+# op.write(str(bs.select('title')))
+# print(bs.find_all(text=re.compile("新闻")))
 # print(bs.select('title'))#标签
 # print(bs.select('#id'))#idchazhao
 # print(bs.select('.da'))#类名查找
 # print(bs.select("a[class='']"))
 # print(bs.select('head>tital'))
-#print(bs.find_all(re.compile("div")))
-#t_list = bs.find_all("title")
-#print(t_list)
+# print(bs.find_all(re.compile("div")))
+# t_list = bs.find_all("title")
+# print(t_list)
